@@ -1,5 +1,7 @@
 # encoding=utf-8
 
+__version__ = '0.1a'
+
 from twitter_text.autolink import Autolink
 from twitter_text.extractor import Extractor
 from twitter_text.highlighter import HitHighlighter
